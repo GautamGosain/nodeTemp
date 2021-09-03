@@ -1,3 +1,8 @@
 /node_modules      
 
 # it is used to tell git that these files are not to be uploaded
+
+#IMPORTANT
+# after cloning the repo, run [npm install] - it installs all the dependencies given in the dependencies in package.json 
+
+#starting command of project -> npm start=>node app.js   in package.json
